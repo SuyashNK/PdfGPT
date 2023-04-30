@@ -1,13 +1,13 @@
-# PdfGPT
-#### This is the repository for the hackathon and the evaluation of the course Innovation and Entrepreneurship by Group of :
-#### Abhishek Mane - 20bds001
-#### Suyash Kamble - 20bds029
-#### Rishabh Singh - 20bds044
-#### Shivam Mishra - 20bds049
+# Pdf-GPT
+This is the repository for the hackathon and the evaluation of the course Innovation and Entrepreneurship by Group of :
+Abhishek Mane - 20bds001
+Suyash Kamble - 20bds029
+Rishabh Singh - 20bds044
+Shivam Mishra - 20bds049
 
 ## Problem Statement :
 
-#### The growing demand for natural language processing (NLP) and chatbot technologies has resulted in an increase in innovative mobile and web applications that use these technologies to enhance user interactions with technology. One such API is ChatGPT, a large language model API that offers a range of NLP services. The aim of this problem statement is to develop a mobile/web application that utilizes ChatGPT's capabilities to create a user-friendly and innovative chatbot-based interface. The chatbot must be able to handle complex queries and provide accurate responses while delivering an intuitive and easy-to-use experience for users.
+The growing demand for natural language processing (NLP) and chatbot technologies has resulted in an increase in innovative mobile and web applications that use these technologies to enhance user interactions with technology. One such API is ChatGPT, a large language model API that offers a range of NLP services. The aim of this problem statement is to develop a mobile/web application that utilizes ChatGPT's capabilities to create a user-friendly and innovative chatbot-based interface. The chatbot must be able to handle complex queries and provide accurate responses while delivering an intuitive and easy-to-use experience for users.
 
 The participants are required to develop a chatbot that is capable of understanding users' preferences, history, and context to provide personalized responses and recommendations. The chatbot should be integrated with other APIs and services such as weather, news, and e-commerce to provide a comprehensive user experience. Furthermore, the application should leverage the powerful NLP capabilities of ChatGPT to enhance the chatbot's accuracy, understanding, and ability to handle natural language queries. 
 
