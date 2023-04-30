@@ -30,10 +30,10 @@ In conclusion, Pdf-GPT is a sophisticated mobile/web application that provides a
 
 
 ## Technologies used:
-PyMuPDF
-numpy==1.19.5
-scikit-learn
-tensorflow>=2.0.0
-tensorflow-hub
-openai==0.10.2
-gradio
+1. PyMuPDF
+2. numpy==1.19.5
+3. scikit-learn
+4. tensorflow>=2.0.0
+5. tensorflow-hub
+6. openai==0.10.2
+7. gradio
