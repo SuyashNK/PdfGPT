@@ -14,3 +14,15 @@ The participants are required to develop a chatbot that is capable of understand
 Developing a scalable chatbot architecture is a crucial aspect of this problem statement. The chatbot architecture must be able to handle a large number of users and queries simultaneously, with minimal latency. To test and ideate, participants are encouraged to use the chat feature of the ChatGPT website. However, the final application should only use ChatGPT's API, and the API usage must be limited to $5. 
 
 In summary, the challenge is to create a chatbot-based interface that delivers an exceptional user experience by utilizing ChatGPT's NLP capabilities and integrating with other APIs. The chatbot must be personalized, intuitive, and easy to use while being scalable to handle a large number of users and queries with minimal latency, all within the $5 API usage limit provided by ChatGPT.
+
+## Solution Statement:
+
+Pdf-GPT is a cutting-edge mobile/web application developed as a solution to the problem statement, which aims to leverage ChatGPT's NLP capabilities to create an innovative chatbot-based interface. The objective of this solution is to provide an intuitive and easy-to-use interface that allows users to upload PDFs in the chat and ask complex questions to receive accurate responses in a conversational format.
+
+Pdf-GPT uses a sophisticated architecture that enables users to extract information from PDFs in a conversational manner. The application leverages the powerful NLP capabilities of ChatGPT to enhance accuracy, understanding, and the ability to handle natural language queries. The chatbot is personalized to understand users' preferences, history, and context to provide personalized responses and recommendations.
+
+Pdf-GPT is integrated with other APIs and services, such as weather, news, and e-commerce, to provide a comprehensive user experience that goes beyond the information provided in the PDF. This integration helps to deliver a more personalized and relevant experience to the user.
+
+The scalability of Pdf-GPT's architecture is a critical aspect of the solution. The chatbot architecture is designed to handle a large number of users and queries simultaneously, with minimal latency, making it a scalable solution that can accommodate growth in users and maintain high levels of user satisfaction.
+
+In conclusion, Pdf-GPT is a sophisticated mobile/web application that provides an innovative chatbot-based interface for users. By leveraging the NLP capabilities of ChatGPT, integrating with other APIs and services, and providing a scalable architecture, Pdf-GPT offers an intuitive and easy-to-use interface that allows users to extract information from PDFs in a conversational manner, providing a personalized and comprehensive user experience.
