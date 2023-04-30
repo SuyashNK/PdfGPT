@@ -1,9 +1,10 @@
 # Pdf-GPT
 This is the repository for the hackathon and the evaluation of the course Innovation and Entrepreneurship by Group of :
-Abhishek Mane - 20bds001
-Suyash Kamble - 20bds029
-Rishabh Singh - 20bds044
-Shivam Mishra - 20bds049
+
+1. Abhishek Mane - 20bds001
+2. Suyash Kamble - 20bds029
+3. Rishabh Singh - 20bds044
+4. Shivam Mishra - 20bds049
 
 ## Problem Statement :
 
@@ -26,3 +27,13 @@ Pdf-GPT is integrated with other APIs and services, such as weather, news, and e
 The scalability of Pdf-GPT's architecture is a critical aspect of the solution. The chatbot architecture is designed to handle a large number of users and queries simultaneously, with minimal latency, making it a scalable solution that can accommodate growth in users and maintain high levels of user satisfaction.
 
 In conclusion, Pdf-GPT is a sophisticated mobile/web application that provides an innovative chatbot-based interface for users. By leveraging the NLP capabilities of ChatGPT, integrating with other APIs and services, and providing a scalable architecture, Pdf-GPT offers an intuitive and easy-to-use interface that allows users to extract information from PDFs in a conversational manner, providing a personalized and comprehensive user experience.
+
+
+## Technologies used:
+PyMuPDF
+numpy==1.19.5
+scikit-learn
+tensorflow>=2.0.0
+tensorflow-hub
+openai==0.10.2
+gradio
